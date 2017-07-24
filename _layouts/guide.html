@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article>
+
+    <div class="page-header">
+        <h1>{{ page.title }}</h1>
+        {% comment %}
+        {% if page.renderDate == null or page.renderDate == true %}
+            <small><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></small>
+        {% endif %}
+        {% endcomment %}
+    </div>
+
+    <div class="post-content">
+        {{ content }}
+    </div>
+
+</article>
+
+{% comment %}
+{% capture id %}guide-{{ page.title | slugify }}{% endcapture %}
+{% include discussion.html id=id %}
+{% endcomment %}

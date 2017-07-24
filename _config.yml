@@ -1,0 +1,44 @@
+# Site settings
+title: Best Ride Share Gear
+email:
+description: >
+  Description
+baseurl: ""
+url: "https://bestridesharegear.com"
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+#theme: minima
+#plugins:
+#  - jekyll-feed
+
+sass:
+  style: compressed
+
+collections:
+  guides:
+    output: true
+    permalink: /guides/:path/
+
+defaults:
+  -
+    scope:
+      type: guides
+    values:
+      layout: guide
+      sitemap:
+        priority: 0.6
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

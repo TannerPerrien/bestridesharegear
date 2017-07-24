@@ -1,0 +1,31 @@
+---
+layout: default
+title: Best Ride Share Gear - Your Guide to the Best Uber and Lyft products
+exerpt: Learn about the best products for your car and which products should be avoided. Expert advice helps you make the most of your driving!
+---
+
+<div class="row">
+  <div class="col-md-12">
+    <h1><strong>Ride Sharing Gear</strong> <small class="text-muted">gear, guides, and comparisons</small></h1>
+    <p class="lead">
+      Here you will find guides detailing the best tools used by the highest rated <strong>Uber</strong> and <strong>Lyft</strong> drivers. Products are organized into categories to help you compare and determine what makes sense for your car.
+    </p>
+  </div>
+</div>
+
+<div class="row" id="guides">
+  <div class="col-md-12">
+    <h1><strong>Guides</strong> <small class="text-muted">for the best products</small></h1>
+  </div>
+  {% assign guides = site.guides | sort: 'shortTitle' %}
+  {% for guide in guides %}
+  <div class="col-md-4">
+    <div class="list-group">
+      <a href="{{ guide.url }}" class="list-group-item list-group-item-info">
+        <h4 class="list-group-item-heading">{{ guide.shortTitle }}</h4>
+        <p class="list-group-item-text">{{ guide.excerpt }}</p>
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</div>

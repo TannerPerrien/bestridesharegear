@@ -1,0 +1,30 @@
+{
+  "items": [{
+    "name": "Falcon Zero F360 HD",
+    "angle": "120 / 240 (2 cameras)",
+    "display": "3.5\"",
+    "gps": "No",
+    "memory": "32 GB",
+    "nightvision": "Yes",
+    "purchaseUrl": "https://www.amazon.com/gp/product/B01MCZ5SM9/ref=as_li_tl?ie=UTF8&tag=brsg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MCZ5SM9&linkId=37d3424875a22b2f6eea1f29a2e4f21a",
+    "description": "The Falcon Zero F360 is the #1 camera for Uber and Lyft drivers. It features two cameras so you can record the road in front of you as well as the passengers in your car. The built-in night vision ensures you don't miss anything when the sun goes down. Each camera's rotation can be adjusted to record any direction, and the larger screen helps to point the cameras exactly where you want them. Installation is simple with a mount that will attach to your existing rear view mirror. If you're looking for the best, this is it!"
+  }, {
+    "name": "Falcon Zero F170HD+",
+    "angle": "170",
+    "display": "2.7\"",
+    "gps": "Integrated",
+    "memory": "8 GB",
+    "nightvision": "Yes",
+    "purchaseUrl": "https://www.amazon.com/gp/product/B014S09OKO/ref=as_li_tl?ie=UTF8&tag=brsg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B014S09OKO&linkId=7ae39dc85f2f0c8d57cdd95a3e1b1224",
+    "description": "The Falcon Zero F170HD+ delivers great video and night vision, just like the F360. It sports a single camera that can be rotated to point toward the road or toward your passengers. The sleek design and superb video recording makes this cam a great choice! Installation is simple with a suction cup mount that lets you place the camera anywhere on your windshield."
+  }, {
+    "name": " KDLINKS X1",
+    "angle": "165",
+    "display": "2.7\"",
+    "gps": "Integrated",
+    "memory": "8 GB",
+    "nightvision": "No",
+    "purchaseUrl": "https://www.amazon.com/gp/product/B00N8BM0BU/ref=as_li_tl?ie=UTF8&tag=brsg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00N8BM0BU&linkId=7e69e2925a24e2ba96f29f64ccd8f32d",
+    "description": "The X1 is a high functioning camera, similar to the F170HD+. It features \"G-Sensor\" technology that automatically locks the current video in the event that a collision is detected. It does not have night vision, but still delivers great video footage at night. Installation is simple with a suction cup mount that lets you place the camera anywhere on your windshield."
+  }]
+}
