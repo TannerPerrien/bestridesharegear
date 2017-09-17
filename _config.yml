@@ -8,6 +8,9 @@ url: "https://bestridesharegear.com"
 twitter_username:
 github_username:
 
+gems:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
 #theme: minima

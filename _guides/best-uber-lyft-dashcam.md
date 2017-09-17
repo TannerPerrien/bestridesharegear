@@ -1,37 +1,43 @@
 ---
-title: "Guide: Best Uber and Lyft Dashcams"
-shortTitle: "Dashcams"
+title: "Guide: The Best Uber and Lyft Dashcam"
+shortTitle: "Dashcam"
 date: 2017-07-23
 order: 1
-excerpt: Determine the best dash camera for your car. Reduce your liability with Uber and Lyft with one of these dashcams.
+excerpt: Get the best dash camera for your car. Reduce your liability with one a camera that captures everything.
 sitemap:
-  lastmod: 2017-07-23
+  lastmod: 2017-09-17
+redirect_from:
+  - /guides/best-uber-lyft-dashcams/
 ---
 
-This guide will help you explore the best cameras for your ride. Cameras may face the road, the rider, or both. We will take a look at price points, video resolution, audio recording, battery power, and ease of installation.
+{% assign products = site.data.dashcams.items | where:"name", "Falcon Zero F360 HD" %}
+{% assign cam = products[0] %}
+
+This guide will help you explore the best dash cams. Cameras protect you from two types of threats: people outside of your car and people inside of your car. Outside of your car, a camera can protect you from disgruntled drivers or pedestrians who are not paying attention. Inside your car a camera can [discourage destructive behavior][accuse 1] from violent or intoxicated passengers, reduce the chance of [false accusations][accuse 2], or worst case scenario help you prove your innocence.
 {: .lead}
 
-## Camera Lineup
+[accuse 1]: http://nypost.com/2017/04/05/passenger-from-hell-threatens-to-accuse-uber-driver-of-rape/
+[accuse 2]: https://qz.com/985832/uber-drivers-are-filming-their-riders-with-dash-cams-to-protect-against-bad-reviews-and-false-accusations/
+[uber guide]: https://help.uber.com/h/efaad152-cbb6-45fe-9d7d-911842d21c8b
 
-<div class="row">
-<div class="col-sm-12">
-<div class="table-responsive" markdown="1">
-| Model | Display | Angle | GPS | Memory
-|-|{% for cam in site.data.dashcams.items %}
-| [{{ cam.name }}]({{ cam.purchaseUrl }}) | {{ cam.display }} | {{ cam.angle }} | {{ cam.gps }} | {{ cam.memory }}{% endfor %}
-{: .table .table-hover .table-striped .table-bordered}
-</div>
-</div>
-</div>
+## {{ cam.name }} [(Get this cam!)]({{ cam.purchaseUrl }})
 
-## Camera Details
-
-{% for cam in site.data.dashcams.items %}
-### [{{ cam.name }}]({{ cam.purchaseUrl }})
 {{ cam.description }}
-{% endfor %}
+
+[Go here for more information on the camera]({{ cam.purchaseUrl }})
+{: .alert .alert-info}
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AP4xH9Wu_5U?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+</div>
+
+Please note that local regulations may require individuals using recording equipment in vehicles to fully disclose to riders that they are being recorded in or around a vehicle and obtain consent. Please consult [Uber's guide for video camera usage][uber guide].
+{: .alert  .alert-warning}
+
 
 ## Buying Guide
+
+The {{ cam.name }} is currently the most widely used dash cam for Uber and Lyft drivers. This is the case because it excels in all of the following categories and criteria. If you're considering another camera, compare with these tips to help guide your decision.
 
 ### Installation
 
