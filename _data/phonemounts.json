@@ -1,0 +1,45 @@
+{
+  "items": [{
+    "name": "Car Vent Mount",
+    "order": 1,
+    "description": "The vent mount works in the majority of car vents and is easily adjustable and portable. Four rubber prongs pinch a vent fin to hold the magnet in place. This works great to keep your phone within arms reach while not blocking your vision. Of the magnetic mounts in this bunch, this one is the most portable. It is small and can move from car to car without the need to fuss with removale or installation.",
+    "image": "vent-mount.jpg",
+    "purchaseUrl": "https://www.amazon.com/gp/product/B00WO9LXFQ/ref=as_li_tl?ie=UTF8&tag=brsg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WO9LXFQ&linkId=277c6b8fde810b1fbc674afcf52bca93"
+  }, {
+    "name": "CD Slot Mount",
+    "order": 4,
+    "description": "Some vehicles don't have many great options for mount points. The CD mount works great in this case, so long as your vehicle has an unused CD player! Using this mount means you keep your vents and windshield free of clutter and avoid reducing visibility. Once inserted and secured into your dash, it provides a sturdy mount point for your magenetically attached phone!",
+    "image": "cd-slot-mount.jpg",
+    "purchaseUrl": "https://www.amazon.com/gp/product/B01MYHD29Y/ref=as_li_tl?ie=UTF8&tag=brsg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MYHD29Y&linkId=5a9b979627aec08a5252a6ff0cc7c15a"
+  }, {
+    "name": "Short Suction Mount",
+    "order": 2,
+    "description": "The suction mount will mount securely to your windshield or the top of your dashboard. It works on many types of dashboard material, including some textured surfaces. This mount shines in its ability to be placed nearly anywhere you want. It's short flexible arm gives you additional control to position your phone exactly where you want it.",
+    "image": "suction-mount.jpg",
+    "purchaseUrl": "https://www.amazon.com/gp/product/B00Q69U8YM/ref=as_li_tl?ie=UTF8&tag=brsg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00Q69U8YM&linkId=d955422f58583988a17b9238ae042d1a"
+  }, {
+    "name": "Rearview Mirror Mount",
+    "order": 5,
+    "description": "The rearview mirror mount is a clever way to magnetically secure your phone near your rearview mirror. The flexible arm gives you enough control to position your phone at the exact angle and position that you prefer. One thing to watch out for with this mount is that it is not compatible with all rear view mirrors as the mount does not expand wide enough for some larger size mirrors.",
+    "image": "rearview-mirror-mount.jpg",
+    "purchaseUrl": "https://www.amazon.com/gp/product/B01CE08FXM/ref=as_li_tl?ie=UTF8&tag=brsg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CE08FXM&linkId=1680d50663cbc09103e383c6d1d6781b"
+  }, {
+    "name": "Power Mount",
+    "order": 6,
+    "description": "The power mount secures itself in your 12 volt power plug. As long as your power mount is high enough this works great to give your phone a steady position somewhere in the center of your dash. The sturdiness of this mount varies from vehicle to vehicle. The mount may have a tendency to rotate or 'fall over' when rounding a turn due to the weight of the phone. This is less common in vehicles where the plug has a tight fit.",
+    "image": "power-mount.jpg",
+    "purchaseUrl": "https://www.amazon.com/gp/product/B00WO9LX9M/ref=as_li_tl?ie=UTF8&tag=brsg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WO9LX9M&linkId=d03520d995306168946d3faf3c6f5f06"
+  }, {
+    "name": "Dash Mount",
+    "order": 3,
+    "description": "The dash mount is a popular choice for securing your phone to the dashboard. This works similar to the suction mount, but is different in that the mount is secured by an adhesive pad rather than suction. This may provide a stronger mount, especially on a textured dashboard, but is less portable in that you will likely have to use a new adhesive if you want to move the location of the mount. This mount stands out in its ability to be extra secure or work on dashboards where the suction mount is unable to provide a satisfactory hold.",
+    "image": "dash-mount.jpg",
+    "purchaseUrl": "https://www.amazon.com/gp/product/B00I608BJ8/ref=as_li_tl?ie=UTF8&tag=brsg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I608BJ8&linkId=78bb1d87763e893eb8d43bea95b838b0"
+  }, {
+    "name": "Adhesive Magnets",
+    "order": 7,
+    "description": "If you have multiple devices that you will want to mount in your vehicle, you will need additional magnets. These magnets can be placed between your phone and case without using the adhesive. Alternatively, you can apply the magnet with the adhesive directly to the device or case, either inside or out depending on the thickness of the case. Exterior applications work better on thicker cases as the magnets may not be strong enough to hold if placed on the inside.",
+    "image": "magnets.jpg",
+    "purchaseUrl": "https://www.amazon.com/gp/product/B00I608BG6/ref=as_li_tl?ie=UTF8&tag=brsg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I608BG6&linkId=47458fecbf054acdcd05ef29d9d0d629"
+  }]
+}
