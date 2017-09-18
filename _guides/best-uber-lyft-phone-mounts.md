@@ -13,11 +13,11 @@ Magnetic mounts allow you to secure your phone in-car with absolute ease and sty
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-#### Why Magnets?
+## Why Magnets?
 
 Utilizing magnetic mounts makes it easy for you and others to go from vehicle to vehicle and always have an easy place to mount your phone. Once you try this you will never go back to anything else!
 
-#### Warranty + Return Policy
+## Warranty + Return Policy
 
 SCOSCHE has been in the car business since 1980 and has a reputation for building quality accessories. Between their 1-year warranty and Amazon's fantastic return policy, you can't go wrong trying a few of these acessories to see what works best for you.
 </div>
